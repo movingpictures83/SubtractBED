@@ -1,0 +1,2 @@
+Prefix plugins/SubtractBED/example/
+Plugin SubtractBED inputfile parameters.txt outputfile subtract.txt
